@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="M2M Drinks to Orders" max_length="40" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" type="collection">
+        <element choice="3" default="grand" label="Size" max_length="40" name="size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Grand" sequence="1" value="grand"/>
+                <element inactive_on_update="false" label="Venti" sequence="2" value="venti"/>
+                <element inactive_on_update="false" label="Tall" sequence="3" value="tall"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Starbucks Drink" max_length="32" name="starbucks_drink" reference="sn_starbucks_manag_starbucks_drink" type="reference"/>
+        <element attributes="encode_utf8=false" label="Starbucks Order" max_length="32" name="starbucks_order" reference="sn_starbucks_manag_starbucks_order" type="reference"/>
+        <index name="index">
+            <element name="starbucks_order"/>
+        </index>
+        <index name="index2">
+            <element name="starbucks_drink"/>
+        </index>
+    </element>
+</database>

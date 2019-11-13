@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Sn Starbucks Manag Starbucks Drink" max_length="40" name="u_imp_tmpl_sn_starbucks_manag_starbucks_drink" type="collection">
+        <element attributes="import_attribute_name=Calories" label="Calories" max_length="40" name="u_calories" type="integer"/>
+        <element attributes="import_attribute_name=Carb" label="Carb" max_length="40" name="u_carb" type="integer"/>
+        <element attributes="import_attribute_name=Fat" label="Fat" max_length="38" name="u_fat" type="decimal"/>
+        <element attributes="import_attribute_name=Fiber" label="Fiber" max_length="40" name="u_fiber" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Protein" label="Protein" max_length="40" name="u_protein" type="integer"/>
+    </element>
+</database>

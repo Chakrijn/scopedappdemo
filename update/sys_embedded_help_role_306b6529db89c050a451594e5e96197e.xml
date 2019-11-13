@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_starbucks_manag.starbucks_barista" name="sn_starbucks_manag.starbucks_barista">346b6529db89c050a451594e5e96197c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>chakradhar.jn@snc</sys_created_by>
+        <sys_created_on>2019-11-11 03:41:19</sys_created_on>
+        <sys_id>306b6529db89c050a451594e5e96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>346b6529db89c050a451594e5e96197c</sys_name>
+        <sys_package display_value="Starbucks Management" source="sn_starbucks_manag">ee3be9a9db89c050a451594e5e9619e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">ee3be9a9db89c050a451594e5e9619e3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_306b6529db89c050a451594e5e96197e</sys_update_name>
+        <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+        <sys_updated_on>2019-11-11 03:41:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

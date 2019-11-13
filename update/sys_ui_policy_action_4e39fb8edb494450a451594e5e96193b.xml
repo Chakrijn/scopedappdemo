@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>order_for</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>chakradhar.jn@snc</sys_created_by>
+        <sys_created_on>2019-11-13 03:17:57</sys_created_on>
+        <sys_id>4e39fb8edb494450a451594e5e96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>order_for</sys_name>
+        <sys_package display_value="Starbucks Management" source="sn_starbucks_manag">ee3be9a9db89c050a451594e5e9619e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">ee3be9a9db89c050a451594e5e9619e3</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4e39fb8edb494450a451594e5e96193b</sys_update_name>
+        <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+        <sys_updated_on>2019-11-13 03:17:57</sys_updated_on>
+        <table>sn_starbucks_manag_starbucks_order</table>
+        <ui_policy display_value="Order For Field Mandatory">4639fb8edb494450a451594e5e961938</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

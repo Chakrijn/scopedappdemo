@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Starbucks Order" max_length="40" name="sn_starbucks_manag_starbucks_order" sizeclass="2" type="collection">
+        <element label="Order For" max_length="32" name="order_for" reference="sys_user" reference_qual="roles=sn_starbucks_manag.starbucks_user^EQ" reference_qual_condition="roles=sn_starbucks_manag.starbucks_user^EQ" type="reference"/>
+    </element>
+</database>

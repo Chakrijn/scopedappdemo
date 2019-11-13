@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="651faef1db890450a451594e5e96196a" sys_domain="global" table="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>b8e899c2db814450a451594e5e961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.image</element>
+            <position>1</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>3ce899c2db814450a451594e5e961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>bce899c2db814450a451594e5e961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.calories</element>
+            <position>3</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>30e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.carb</element>
+            <position>4</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>b0e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.fat</element>
+            <position>5</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>34e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.fiber</element>
+            <position>6</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>b4e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.protein</element>
+            <position>7</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>38e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>b8e899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starbucks_drink.short_description</element>
+            <position>9</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>3ce899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <position>10</position>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 15:37:28</sys_created_on>
+            <sys_id>bce899c2db814450a451594e5e961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_starbucks_manag_m2m_starbucks_dr_starbucks_or" sys_domain="global" view="Default view">651faef1db890450a451594e5e96196a</sys_ui_section>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 15:37:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sn_starbucks_manag_m2m_starbucks_dr_starbucks_or</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chakradhar.jn@snc</sys_created_by>
+            <sys_created_on>2019-11-12 03:15:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>651faef1db890450a451594e5e96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_starbucks_manag_m2m_starbucks_dr_starbucks_or</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Starbucks Management" source="sn_starbucks_manag">ee3be9a9db89c050a451594e5e9619e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">ee3be9a9db89c050a451594e5e9619e3</sys_scope>
+            <sys_update_name>sys_ui_section_651faef1db890450a451594e5e96196a</sys_update_name>
+            <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+            <sys_updated_on>2019-11-12 03:15:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

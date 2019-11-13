@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Starbucks Management">e5ac212ddb89c050a451594e5e96197f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="sn_starbucks_manag_starbucks_order">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Starbucks Orders</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_starbucks_manag_starbucks_order</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_starbucks_manag.starbucks_barista</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chakradhar.jn@snc</sys_created_by>
+        <sys_created_on>2019-11-11 03:54:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e7ea1addb89c050a451594e5e961984</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>All Open Orders</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Starbucks Management" source="sn_starbucks_manag">ee3be9a9db89c050a451594e5e9619e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">ee3be9a9db89c050a451594e5e9619e3</sys_scope>
+        <sys_update_name>sys_app_module_7e7ea1addb89c050a451594e5e961984</sys_update_name>
+        <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+        <sys_updated_on>2019-11-11 04:02:21</sys_updated_on>
+        <timeline_page/>
+        <title>All Open Orders</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
