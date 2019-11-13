@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>sn_starbucks_manag.OrderEmail</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>OrderEmail</name>
+        <script><![CDATA[var OrderEmail = Class.create();
+OrderEmail.prototype = {
+    initialize: function() {
+    },
+    sendEmail : function(current){
+
+		gs.eventQueue('sn_starbucks_manag.order', current, 'sendOrder','');
+	},
+    type: 'OrderEmail'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>chakradhar.jn@snc</sys_created_by>
+        <sys_created_on>2019-11-13 03:52:36</sys_created_on>
+        <sys_id>86118056db894450a451594e5e961980</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>OrderEmail</sys_name>
+        <sys_package display_value="Starbucks Management" source="sn_starbucks_manag">ee3be9a9db89c050a451594e5e9619e3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Starbucks Management">ee3be9a9db89c050a451594e5e9619e3</sys_scope>
+        <sys_update_name>sys_script_include_86118056db894450a451594e5e961980</sys_update_name>
+        <sys_updated_by>chakradhar.jn@snc</sys_updated_by>
+        <sys_updated_on>2019-11-13 05:27:43</sys_updated_on>
+    </sys_script_include>
+</record_update>
